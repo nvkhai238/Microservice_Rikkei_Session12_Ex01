@@ -1,0 +1,2 @@
+rootProject.name = 'session12-ex01'
+include 'product-service'
